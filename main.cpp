@@ -34,5 +34,5 @@ void read_markers() {
 
 void video_detection(){
 	cv::VideoCapture inputVideo;
-	
+
 }
